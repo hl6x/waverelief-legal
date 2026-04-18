@@ -13,6 +13,6 @@ WaveRelief does not knowingly collect any information from children under 13.
 
 ### CONTACT SUPPORT
 For privacy inquiries, contact: **hl6@outlook.com**
-<a href="mailto:info@example.com"></a>
+**<a href="mailto:info@example.com"></a>**
 
 © 2026 HML

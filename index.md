@@ -12,6 +12,6 @@ WaveRelief does not knowingly collect any information from children under 13.
 * **Local Processing:** All signal generation occurs locally on your device.
 
 ### CONTACT SUPPORT
-For privacy inquiries, contact: **hl6@outlook.com**
+For privacy inquiries, contact: <hl6@outlook.com>
 
 © 2026 HML

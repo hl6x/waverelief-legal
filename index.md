@@ -1,5 +1,5 @@
 # Privacy Policy: WaveRelief
-**Last Updated: April 2026**
+**Last Updated: May 2026**
 
 WaveRelief operates as a standalone, 100% offline acoustic engine!
 
